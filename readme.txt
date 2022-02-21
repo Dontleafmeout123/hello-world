@@ -1,2 +1,2 @@
 "Hello!"
-"Is this different?"
+"Is there a difference?"
